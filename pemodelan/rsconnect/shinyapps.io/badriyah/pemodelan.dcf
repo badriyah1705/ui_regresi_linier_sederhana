@@ -1,0 +1,12 @@
+name: pemodelan
+title: pemodelan
+username:
+account: badriyah
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4039724
+bundleId: 4527033
+url: https://badriyah.shinyapps.io/pemodelan/
+when: 1619559062.80008
+asMultiple: FALSE
+asStatic: FALSE
